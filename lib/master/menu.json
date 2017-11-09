@@ -1,0 +1,20 @@
+{
+    "burger" : {
+        "price" : 3,
+        "build_tasks" : [ "grill_burger" , "build", "package" ]
+    },
+
+    "cheeseburger" : {
+        "price" : 4,
+        "build_tasks" : [ "grill_burger" , "add_cheese", "build" , "package" ]
+    },
+
+    "fries" : {
+        "price" : 1.5,
+        "build_task" : [ "fry_fries" , "package" ]
+    },
+    "loaded_fries" : {
+        "price" : 2.25,
+        "build_task" : [ "fry_fries", "add_cheese" , "package" ]
+    }
+}

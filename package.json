@@ -1,0 +1,16 @@
+{
+  "name": "node-childprocess",
+  "version": "1.0.0",
+  "description": "Basic Child Process Module using NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "redis": "^2.8.0"
+  }
+}

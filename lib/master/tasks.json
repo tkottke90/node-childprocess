@@ -1,0 +1,28 @@
+{
+    "template" : {
+        "task_ID" : "",
+        "task_name" : "",
+        "task_js" : ""
+    },
+
+    "fry_fries" : {
+        "task_js" : "fry_fries.task.js"
+    },
+
+    "add_cheese" : {
+        "task_js" : "add_cheese.task.js"
+    },
+
+    "build" : {
+        "task_js" : "build.task.js"
+    },
+    
+    "grill_burger" : {
+            "task_js" : "grill_burger.task.js"
+    },
+
+    "package" : {
+        "task_js" : "package_task.js"
+    }
+
+}
